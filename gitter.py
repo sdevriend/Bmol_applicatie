@@ -6,3 +6,4 @@ t = 4
 tm = 2*(a+t)+4*(c+g)
 
 print (tm)
+# shrek is drek
